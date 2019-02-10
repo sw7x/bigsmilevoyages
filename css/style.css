@@ -2315,3 +2315,207 @@ input:checked + .radio-value {
     transform: translateY(-50%);
     width: 100%;
 }
+
+
+/* ===================================== */
+
+.mg_hotel_hd1 h4{
+    font-size: 19px;
+}
+
+.mg_hotel_hd1 {
+    margin: 0px 0 10px;
+}
+
+
+
+
+
+
+.home-feature-tours .mg_hotel_destination figcaption{
+    height: 100%;
+    top: 60%;
+}
+
+.home-feature-tours .mg_hotel_destination figcaption a{
+    height: 100%;
+    
+}
+
+
+
+.home-feature-tours .mg_hotel_destination figcaption p {
+    opacity: 0;
+    transition: all 0.2s ease-in-out 0s;
+
+    font-size: 16px;
+    line-height: 24px;
+    font-style: normal;
+        
+    text-transform: capitalize;
+    font-family: 'PT Sans', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    padding: 0px 10px;
+    text-align: center;
+}
+
+.home-feature-tours .mg_hotel_destination:hover figcaption p {
+    opacity: 1;
+    transition-delay: 0.2s;
+
+    
+}
+
+.home-feature-tours .mg_hotel_destination:hover figcaption a{
+   box-shadow: none; 
+}
+
+.home-feature-tours .mg_hotel_destination:hover figcaption a:hover{
+   box-shadow: none; 
+  background-color: #ffffff00;
+}
+
+
+.home-feature-tours .mg_hotel_destination figure .icon-div{
+    position: absolute;
+    width: 20px;
+    right: 10px;
+    left: unset;
+    bottom: 10px;
+}
+
+.home-feature-tours .mg_hotel_destination figure .icon-div i{
+    color: #fff;
+    font-size: 36px;    
+    position: static;
+}
+
+.home-feature-tours .mg_hotel_destination:hover figure .icon-div i{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+section.text-section{
+    background-color: #ebeef2;
+}
+
+    
+.iqoniq_contant_wrapper section.text-section p{
+    font-size: 16px;
+    line-height: 24px;
+    font-style: normal;
+    margin: -5px 0 20px 0;
+    text-transform: capitalize;
+    font-family: 'PT Sans', sans-serif;
+    color: #373737;
+    font-weight: 300;
+}
+
+.iqoniq_contant_wrapper section.text-section .mg_hotel_hd1{
+    margin-bottom: 10px;
+}
+.iqoniq_contant_wrapper section.text-section .mg_hotel_hd1 h4{
+    font-size: 19px;
+}
+
+
+
+
+
+/*slick-arrow*/
+
+
+.chooseus_slider .arrow{
+    display: block;
+    color: #FFF;
+    font-size: 62px;
+    /* margin: 5px; */
+    padding: 4px 7px;
+    /* background: #ffffff00; */
+    /* display: inline-block; */
+    cursor: pointer;
+    border-radius: 3px;
+    z-index: 9999;
+}
+
+
+.chooseus_slider .prev{
+    left:-5px;
+    /*left: 1%;*/
+    top: 40%;
+    position: absolute;
+    transform: translateY(-50%);
+
+}
+.chooseus_slider .prev:before{
+
+}
+
+
+.chooseus_slider .next{
+    right:-5px;
+    /*right: 1%;*/
+    top: 40%;
+    position: absolute;
+    transform: translateY(-50%);
+
+
+}
+.chooseus_slider .next:before{
+
+}
+
+footer, section {
+    padding: 40px 0 20px;
+}
+
+
+.mg_travelplan.home-bottom-text-section .row{
+    margin-bottom: 30px;
+}
+
+.mg_travelplan.home-bottom-text-section .btnDiv{
+    text-align: center;
+}
+
+.mg_travelplan.home-bottom-text-section .mg_plan_caption{
+    width: 100%;
+    text-align: left;
+    float: left;
+}
+
+.mg_travelplan.home-bottom-text-section .mg_hotel_hd1{
+    margin: 0px 0 10px;
+}
+
+.mg_travelplan.home-bottom-text-section .mg_plan_caption p {
+    color: #fff;
+    float: left;
+    font-size: 16px;
+    line-height: 24px;
+    font-style: normal;
+    margin: -5px 0 20px 0;
+    text-transform: capitalize;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.mg_travelplan.home-bottom-text-section .mg_hotel_hd1 h4{
+    font-size: 19px;
+}
+
+
+.chooseus_slider .slick-slide:focus {
+    outline: none;
+}
