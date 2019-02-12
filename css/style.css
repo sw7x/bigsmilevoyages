@@ -2519,3 +2519,106 @@ footer, section {
 .chooseus_slider .slick-slide:focus {
     outline: none;
 }
+
+/*****************************************/
+/*****************************************/
+.mg_nav_wrapper{
+   
+    float: left;
+    width: 100%;
+    position: fixed;    
+    padding: 10px 60px 0;
+    z-index: 999;
+    background-color: #fff;
+    height: 10%;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+}
+
+
+.mg_logo{
+    
+    float: left;
+    
+    width: 6%;
+    height: auto;
+
+}
+
+.mg_nav{
+    font-size: 13px;
+    padding:13px 0 24px;
+}
+
+.flag{
+    float: right;
+}
+.flag-icon{
+    width: 15px!important;
+}
+
+.mg_hotel_banner{
+    margin-top: 60px;
+}
+
+
+.mg_slider1{
+    width: 350px;
+    bottom: 200px;
+    padding: 35px 0 35px 0;
+    box-shadow: 0px 0px 8px -1px rgba(0,0,0,0.75);
+    opacity: 0.6;
+    border-radius: 4px;
+}
+.search_one.absolute:hover{
+    opacity: 1;
+}
+
+.mg_hotel_search{
+    background-image: url(extra-images/choosus_bg.jpg);
+}
+
+
+.mg_bottom_bar{
+    
+    float: left;    
+    width: 100%;    
+    padding: 10px 0 10px;    
+    background-color: #2bb673;
+}
+
+
+.mg_bottom_bar .text{
+    padding: 4px 0 4px;
+}
+
+.quote{
+    width: 250px;
+    height: auto;
+    color: #fff;
+    background-color: #2bb673;
+    font-size: 25px;
+    font-weight: 600;
+    -webkit-transition: background-color 0.8s ease-out;
+    -moz-transition: background-color 0.8s ease-out;
+    -o-transition: background-color 0.8s ease-out;
+    transition: background-color 0.8s ease-out;
+}
+.quote:hover{
+    background-color: #117b48;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.logo img{
+    width: 70%;
+    border-radius: 4px;
+    background-color: #fff;
+}
+.mg_bottom_bar ul li a i{
+    display: inline-block;
+    float: right;
+    color: #fff;
+    padding: 0px 30px;
+    font-size: 40px;
+}
+.footer-text{
+    color: #fff;
+} 

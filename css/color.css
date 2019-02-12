@@ -33,7 +33,7 @@ input[type="text"]:focus,
 .our-room .text .blog_title a,
 input[type="text"]:focus + label,
 .mg_blog_meta a i {
-    color: #fa9600
+    color: #fa9600;
 }
 
 
@@ -73,7 +73,7 @@ input[type="text"]:focus + label,
 .widget_search p input[type="button"],
 .kode-pagination .page-numbers.current,
 .mg_blog_full-slider .slick-dots li.slick-active button {
-    background-color: #fa9600
+    background-color: #fa9600;
 }
 
 

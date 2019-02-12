@@ -18,7 +18,7 @@ $(document).ready(function(){
       $('.mg_slider1').slick({
           fade:true,
           autoplay: true,
-          autoplaySpeed: 1200,
+          autoplaySpeed: 2000,
       });
     }
   /*
