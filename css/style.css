@@ -94,12 +94,18 @@ section{
 .mg_nav_wrapper{
     float: left;
     width: 100%;
-    position: relative;
-    padding: 20px 60px 0;
+    position: fixed;
+    padding: 10px 60px 0;
+    z-index: 999;
+    background-color: #fff;
+    height: 10%;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
 }
 .mg_logo{
     float: left;
-    width: auto;
+    width: 6%;
+    height: auto;
+
 }
 .mg_nav{
     float: right;
@@ -123,12 +129,18 @@ section{
     margin: 0;
     float: left;
     width: 100%;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: bold;
     line-height: normal;
-    padding:19px 0 39px;
+    padding:13px 0 24px;
     background: transparent;
     text-transform: uppercase;
+}
+.flag{
+    float: right;
+}
+.flag-icon{
+    width: 15px!important;
 }
 .mg_navigation li:last-child{
     margin: 0;
@@ -249,6 +261,7 @@ section{
 .mg_hotel_banner{
     float: left;
     width: 100%;
+    margin-top: 60px;
 }
 .mg_slider1{
     float: left;
@@ -283,12 +296,19 @@ section{
     left: 0;
     right: 0;
     top: auto;
-    width: 800px;
-    bottom: 80px;
+    width: 350px;
+    bottom: 200px;
     margin: 0 auto;
     background: #fff;
     text-align: center;
     position: absolute;
+    padding: 35px 0 35px 0;
+    box-shadow: 0px 0px 8px -1px rgba(0,0,0,0.75);
+    opacity: 0.6;
+    border-radius: 4px;
+}
+.search_one.absolute:hover{
+    opacity: 1;
 }
 .mg_hotel_search{
     float: left;
@@ -496,7 +516,7 @@ section{
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('extra-images/choosus_bg.jpg');
+    background-image: url(extra-images/choosus_bg.jpg);
 }
 .why_chooseus:after,
 .why_chooseus:before{
@@ -1028,8 +1048,8 @@ section{
 .mg_bottom_bar{
     float: left;
     width: 100%;
-    padding: 34px 0 37px;
-    background-color: #1c1c34;
+    padding: 10px 0 10px;
+    background-color: #2bb673;
 }
 .mg_bottom_bar .text{
     width: 60%;
@@ -1148,7 +1168,7 @@ footer .mg_contact,
     float: left;
     width: 100%;
     text-align: center;
-    padding: 26px 0 29px;
+    padding: 4px 0 4px;
     background-color: #151528;
 }
 .mg_copyright p{
@@ -2314,4 +2334,38 @@ input:checked + .radio-value {
     top: 50%;
     transform: translateY(-50%);
     width: 100%;
+}
+
+/* Get a free quote*/
+
+.quote{
+    width: 250px;
+    height: auto;
+    color: #fff;
+    background-color: #2bb673;
+    font-size: 25px;
+    font-weight: 600;
+    -webkit-transition: background-color 0.8s ease-out;
+    -moz-transition: background-color 0.8s ease-out;
+    -o-transition: background-color 0.8s ease-out;
+    transition: background-color 0.8s ease-out;
+}
+.quote:hover{
+    background-color: #117b48;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.logo img{
+    width: 70%;
+    border-radius: 4px;
+    background-color: #fff;
+}
+.mg_bottom_bar ul li a i{
+    display: inline-block;
+    float: right;
+    color: #fff;
+    padding: 0px 30px;
+    font-size: 40px;
+}
+.footer-text{
+    color: #fff;
 }

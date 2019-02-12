@@ -1,14 +1,15 @@
                 <!-- Bottom Bar Start-->
                 <div class="mg_bottom_bar">
                     <div class="container">
-                        <div class="text">
-                            <h6>Submit newsletters</h6>
-                            <p>sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy sanctus est Lorem ipsum dolor sit amet.</p>
+                        <div class="col-md-8">
+                            <h3 class="footer-text">FOLLOW US AND START TRAVELLING ALREADY !</h3>
                         </div>
-                        <!-- Input Start-->
-                        <div class="mg_input_1">
-                            <input placeholder="Your E-mail ID" type="text">
-                            <label class="search_icon"><input type="submit"></label>
+                        <div class="col-md-4">
+                            <ul>
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            </ul>
                         </div>
                         <!-- Input End-->
                     </div>
@@ -20,167 +21,50 @@
             <footer class="mg_footer1">
                 <div class="container">
                     <!-- Widget Text Start--> 
-                    <div class="col-md-3 col-sm-6">
+                    <div class="col-md-4 col-sm-12">
                         <div class="widget widget_text">
                             <div class="logo">
-                                <a href="#"><img src="images/ft-logo.png" alt=""/></a>
+                                <a href="#"><img class="img-responsive" src="images/BIGSMILE.png" alt=""/></a>
                             </div>
                             <div class="text">
                                 <p>
-                                     sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sanctus est Lorem ipsum dolor sit amet.
                                 </p>
                                 <div class="mg_contact"><i class="fa fa-phone"></i><span>+92-1234567689</span></div>
-                                <div class="mg_contact"><i class="fa fa-envelope-o"></i><span>iqoniqthemes@gmail.com</span></div>
+                                <div class="mg_contact"><i class="fa fa-envelope-o"></i><span>info@bigsmilevoyages.com</span></div>
                             </div>
-                            <ul class="mg_social">
-                               <li><a href="#"><i class="fa fa-facebook"></i></a></li> 
-                               <li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-                               <li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
-                            </ul>
                         </div>
                     </div>
                     <!-- Widget Text End--> 
                     <!-- Widget Archives Start--> 
-                    <div class="col-md-3 col-sm-6">
+                    <div class="col-md-4 col-sm-12">
                         <div class="widget widget_archives">
                             <h6 class="widget-title">Our Services</h6>
                             <ul>
-                                <li><a href="#">Etiam ullamcorper</a></li>
-                                <li><a href="#">Suspendisse a pellentesque dui</a></li>
-                                <li><a href="#">Pellentesque dui non felis</a></li>
-                                <li><a href="#">Non felis. Maecenas malesuada</a></li>
-                                <li><a href="#">Etiam ullamcorper</a></li>
-                                <li><a href="#">Suspendisse a pellentesque dui</a></li>
-                                <li><a href="#">Pellentesque dui non felis</a></li>
+                                <li><a href="#">Tours in Sri Lanka</a></li>
+                                <li><a href="#">Travel Guide</a></li>
+                                <li><a href="#">Other Destinations</a></li>
+                                <li><a href="#">About Us</a></li>
                             </ul>
                         </div>
                     </div>  
                     <!-- Widget Archives End--> 
                     <!-- Widget Flicker Start--> 
-                    <div class="col-md-3 col-sm-6">
-                        <div class="widget widget_flicker">
-                            <h6 class="widget-title">Photo gallery</h6>
-                            <ul>
-                                <li><a href="#"><img src="extra-images/flicker-1.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="extra-images/flicker-1.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="extra-images/flicker-1.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="extra-images/flicker-1.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="extra-images/flicker-1.jpg" alt=""></a></li>
-                                <li><a href="#"><img src="extra-images/flicker-1.jpg" alt=""></a></li>
-                            </ul>
-                        </div>
+                    <div class="col-md-4 col-sm-12">
+                        <h6 class="widget-title">OUR PROMISES</h6>
+                        <p>Online secure payments</p>
+                        <img
+                        src="https://www.merchantequip.com/image/?logos=v|m&height=64" alt="Merchant Equipment Store Credit Card Logos"/>
                     </div>
-                    <!-- Widget Flicker End-->
-                    <!-- Widget Search Start-->
-                    <div class="col-md-3 col-sm-6">
-                        <div class="widget widget_search">
-                            <h6 class="widget-title">keep in touch</h6>
-                            <form>
-                                <div class="mg_input_1">
-                                   <input type="text" placeholder="Your E-mail ID">
-                                </div>
-                                <div class="mg_input_1">
-                                    <textarea placeholder="Your Message"></textarea>
-                                </div>
-                                <p><input type="button" value="Send message"></p>
-                            </form>
-                        </div>
-                    </div>
-                    <!-- Widget Search End-->
                 </div>
             </footer>
             <!-- iqoniq Footer End-->
             <!-- iqoniq Copyright Start-->
             <div class="mg_copyright">
-                <p>Copyrights 2016-17. All rights reserved by:<a target="_blank" href="http://iqoniqthemes.com"> IQONIQ THEMES</a></p>
+                <p> Bigsmilevoyages. Sri Lanka © 2019. Website Designed & Developed by<a target="_blank" href="http://iqoniqthemes.com"></a></p>
             </div>
             <!-- iqoniq Copyright End-->
             <!-- register Modal -->
-            <div class="modal fade" id="reg-box" tabindex="-1" role="dialog">
-                <div class="modal-dialog login1 login5 login5-1">
-                    <div class="modal-tab">
-                        <ul class="nav nav-tabs" role="tablist">
-                            <li role="presentation" class="active"><a href="#sign-In1" aria-controls="sign-In1" role="tab" data-toggle="tab">Sign In</a></li>
-                            <li role="presentation"><a href="#sign-up2" aria-controls="sign-up2" role="tab" data-toggle="tab">Sign Up</a></li>
-                        </ul>
-                        <div class="tab-content">
-                            <div role="tabpanel" class="tab-pane active" id="sign-In1">
-                                <div class="modal-content">
-                                    <div class="user-box">
-                                        <!--FORM FIELD START-->
-                                        <form>
-                                            <div class="mg_input_1">
-                                                <input type="text" placeholder="E-mail">
-                                                <i class="fa fa-envelope-o"></i>
-                                            </div>
-                                            <div class="mg_input_1">
-                                                <input type="text" placeholder="Password">
-                                                <i class="fa fa-lock"></i>
-                                            </div>
-                                            <div class="dialog-footer">
-                                                <div class="input-container">
-                                                    <label>
-                                                        <span class="radio">
-                                                            <input type="checkbox" name="foo" value="1" checked>
-                                                            <span class="radio-value" aria-hidden="true"></span>
-                                                        </span>
-                                                        <span>Remember me</span>
-                                                    </label>
-                                                    <a href="#">Forgot Password<i class="fa fa-question-circle"></i></a>
-                                                </div>
-                                                <button class="mg_btn1">Login</button>
-                                            </div>
-                                        </form>
-                                        <!--FORM FIELD END-->
-                                    </div>
-                                </div>   
-                            </div>
-                            <div role="tabpanel" class="tab-pane" id="sign-up2">
-                                <div class="modal-content">
-                                    <div class="user-box">
-                                       <!--FORM FIELD START-->
-                                        <form>
-                                            <div class="mg_input_1">
-                                                <input type="text" placeholder="E-mail">
-                                                <i class="fa fa-envelope-o"></i>
-                                            </div>
-                                            <div class="mg_input_1">
-                                                <input type="text" placeholder="Password">
-                                                <i class="fa fa-lock"></i>
-                                            </div>
-                                            <div class="dialog-footer">
-                                                <div class="input-container">
-                                                    <label>
-                                                        <span class="radio">
-                                                            <input type="checkbox" name="foo" value="1" checked>
-                                                            <span class="radio-value" aria-hidden="true"></span>
-                                                        </span>
-                                                        <span>Remember me</span>
-                                                    </label>
-                                                </div>
-                                                <button class="mg_btn1">Register</button>
-                                            </div>
-                                        </form>
-                                        <!--FORM FIELD END-->
-                                    </div>
-                                </div>   
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- register Modal end-->
-            <!-- register Modal -->
-            <div class="modal fade" id="search" tabindex="-1" role="dialog">
-                <div class="modal-dialog login1 login5 login5-1">
-                    <div class="modal-tab">
-                        <div class="mg_input_1">
-                            <input placeholder="Search keyword" type="text">
-                            <label class="search_icon"><input type="submit"></label>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
             <!-- register Modal end-->
 		</div>
         <!-- iqoniq Wrapper End-->
