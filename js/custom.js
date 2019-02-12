@@ -39,14 +39,29 @@ $(document).ready(function(){
   */
     if($('.chooseus_slider').length){
       $('.chooseus_slider').slick({
+        
         centerMode: true,
         centerPadding: '0px',
         slidesToShow: 5,
+
+        //nextArrow: '<button class="any-class-name-you-want-next">Next</button>',
+        //prevArrow: '<button class="any-class-name-you-want-previous">Previous</button>',
+
+        nextArrow:'<a id="" class="disableLink arrow prev" href="#" style=""><i class="fa fa-angle-left"></i></a>',
+        prevArrow:'<a id="" class="disableLink arrow next" href="#" style=""><i class="fa fa-angle-right"></i></a>',
+        
+        //prevArrow:"<button type='button' class='pull-left'><i class='fa fa-angle-left' aria-hidden='true'></i></button>",
+        //nextArrow:"<button type='button' class='pull-right'><i class='fa fa-angle-right' aria-hidden='true'></i></button>",
+        
+
+        //prevArrow:"<button type='button' class='slick-prev pull-left'><i class='fa fa-angle-left' aria-hidden='true'></i></button>",
+        //nextArrow:"<button type='button' class='slick-next pull-right'><i class='fa fa-angle-right' aria-hidden='true'></i></button>"
+        
         responsive: [
         {
             breakpoint: 1367,
             settings: {
-              arrows: false,
+              arrows: true,
               centerMode: true,
               centerPadding: '0px',
               slidesToShow: 4
@@ -55,7 +70,7 @@ $(document).ready(function(){
           {
             breakpoint: 992,
             settings: {
-              arrows: false,
+              arrows: true,
               centerMode: true,
               centerPadding: '0px',
               slidesToShow: 3
@@ -230,4 +245,10 @@ $(document).ready(function(){
 
         msnry.layout();
     }
+});
+
+
+
+$(document).on("click","a.disableLink",function(event) {
+    event.preventDefault();
 });
