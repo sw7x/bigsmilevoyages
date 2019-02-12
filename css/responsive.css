@@ -503,3 +503,20 @@
 .bnz_content_wrap error-page .mg_btn1{
 	margin: 0 5px;
 }
+
+
+
+
+
+
+
+
+
+/******* overrides *********/
+@media (min-width: 1200px) and (max-width: 1366px) {
+    
+    
+    .mg_header_1 .mg_navigation li{
+        margin: 0 30px 0 0;
+    }
+}

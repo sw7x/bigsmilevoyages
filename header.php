@@ -24,10 +24,12 @@
         <link href="css/widget.css" rel="stylesheet">
         <!-- Short Code CSS -->
         <link href="css/shortcode.css" rel="stylesheet">
-        <!-- Custom Style CSS -->
-        <link href="css/style.css" rel="stylesheet">
+        
         <!-- Color CSS -->
         <link href="css/color.css" rel="stylesheet">
+
+        <!-- Custom Style CSS -->
+        <link href="css/style.css" rel="stylesheet">
         <!-- Responsive CSS -->
         <link href="css/responsive.css" rel="stylesheet">
         <!-- flag -->

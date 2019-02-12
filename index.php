@@ -11,6 +11,7 @@
                             <img src="images/banner-1.jpg" alt=""/>
                         </figure>
                     </div>
+                    <!-- 
                     <div>
                         <figure>
                             <img src="images/banner-2.jpg" alt=""/>
@@ -21,6 +22,7 @@
                             <img src="images/banner-3.jpg" alt=""/>
                         </figure>
                     </div>
+                     -->
                 </div>
                 <!-- iqoniq Search Wrapper Start-->
                 <div class="search_wraper">
