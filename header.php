@@ -128,6 +128,11 @@
                                         <li><a href="contact-us2.html">contact-us2</a></li>
                                     </ul>
                                 </li>
+                                <div class="mob-flag">
+                                    <li><a href=""><span class="flag-icon flag-icon-us"></span></a></li>
+                                    <li><a href=""><span class="flag-icon flag-icon-fr"></span></a></li>
+                                    <li><a href=""><span class="flag-icon flag-icon-de"></span></a></li>
+                                </div>
                             </ul>
                         </div>
                         <!--DL Menu END-->

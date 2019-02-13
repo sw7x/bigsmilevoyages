@@ -1,10 +1,10 @@
                 <!-- Bottom Bar Start-->
                 <div class="mg_bottom_bar">
                     <div class="container">
-                        <div class="col-md-8">
+                        <div class="col-md-8 col-sm-6 col-xs-12">
                             <h3 class="footer-text">FOLLOW US AND START TRAVELLING ALREADY !</h3>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 col-sm-6 col-xs-12">
                             <ul>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>

@@ -2711,9 +2711,64 @@ input[type="text"]:focus + label,
     background-color: #2bb673;
 }
 
+@media (max-width: 991px) {
 
+    .mg_logo{
+        width: 6%!important;
+        margin: 0px 0px 10px 0px!important;
+    }
+    .flag li a span{
+        visibility: hidden;
+    }
+    .mob-flag li a span{
+        display:block!important;
+    }
+    .mg_nav {
+        width: 75%!important;
+        margin: 0px -60px 0 0px!important;
+    }
+}
 
+@media (max-width: 767px) {
 
+    .flag li a span{
+        visibility: hidden;
+    }
+    .mob-flag li a span{
+        display:block!important;
+    }
+    .mg_nav {
+        width: 75%!important;
+        margin: -16px -30px 0 0px!important;
+    }
+}
 
+@media (max-width: 480px){
+
+    .mg_logo{
+        width: 15%!important;
+        margin: -6px 0px 10px 8px!important;
+    }
+    .mg_nav {
+        width: 75%!important;
+        margin: -16px -30px 0 0px!important;
+    }
+    .flag li a span{
+        visibility: hidden;
+    }
+    .mob-flag li a span{
+        display:block!important;
+    }
+    .widget_text .logo img {
+        margin-bottom: 13px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+}
+
+.mob-flag li a span{
+    display: none;
+}
 
 
