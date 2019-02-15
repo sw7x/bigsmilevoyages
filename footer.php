@@ -51,7 +51,7 @@
                     <!-- Widget Flicker Start--> 
                     <div class="col-md-4 col-sm-12">
                         <h6 class="widget-title">OUR PROMISES</h6>
-                        <p>Online secure payments</p>
+                        <p class="payment-title">Online secure payments</p>
                         <img
                         src="https://www.merchantequip.com/image/?logos=v|m&height=64" alt="Merchant Equipment Store Credit Card Logos"/>
                     </div>

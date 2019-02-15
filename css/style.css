@@ -2568,9 +2568,9 @@ footer, section {
 
 
 .search_one.absolute{
-    width: 350px;   
+    width: 280px;   
     bottom: 200px;
-    padding: 35px 0 35px 0;
+    padding: 15px 0 15px 0;
     box-shadow: 0px 0px 8px -1px rgba(0,0,0,0.75);
     opacity: 0.6;
     border-radius: 4px;
@@ -2771,4 +2771,36 @@ input[type="text"]:focus + label,
     display: none;
 }
 
+/*color*/
 
+.mg_footer1{
+    background-color: #f3f3f3;
+}
+footer .mg_contact{
+    color: #000;
+    font-weight: 500;
+}
+.widget-title{
+    color: #000;
+}
+.mg_footer1 .widget_archives ul li a{
+    color: #000;
+    font-weight: 600;
+}
+.widget_archives ul li::before{
+    color: #2bb673;
+}
+.payment-title{
+    color: #000;
+    font-weight: 600;
+}
+.mg_copyright p{
+    color: #fff
+}
+.mg_travelplan::before{
+    background: #2dae70;
+}
+.mg_plan_caption p{
+    color: #000!important;
+    font-weight: 500;
+}

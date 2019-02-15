@@ -257,7 +257,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <!-- iqoniq Heading Start -->
-                                <div class="mg_hotel_hd1 white">                            
+                                <div class="mg_hotel_hd1 ">                            
                                     <h4>Lorem ipsum dolor sit amet</h4>
                                 </div>
                                 <!-- iqoniq Heading End -->
@@ -273,7 +273,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <!-- iqoniq Heading Start -->
-                                <div class="mg_hotel_hd1 white">                            
+                                <div class="mg_hotel_hd1">                            
                                     <h4>Lorem ipsum dolor sit amet</h4>
                                 </div>
                                 <!-- iqoniq Heading End -->
@@ -287,7 +287,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <!-- iqoniq Heading Start -->
-                                <div class="mg_hotel_hd1 white">                            
+                                <div class="mg_hotel_hd1">                            
                                     <h4>consectetur adipiscing elit, sed do</h4>
                                 </div>
                                 <!-- iqoniq Heading End -->
