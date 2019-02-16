@@ -21,7 +21,7 @@
             <footer class="mg_footer1">
                 <div class="container">
                     <!-- Widget Text Start--> 
-                    <div class="col-md-4 col-sm-12">
+                    <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="widget widget_text">
                             <div class="logo">
                                 <a href="#"><img class="img-responsive" src="images/footer-logo.png" alt=""/></a>
@@ -36,7 +36,7 @@
                     </div>
                     <!-- Widget Text End--> 
                     <!-- Widget Archives Start--> 
-                    <div class="col-md-4 col-sm-12">
+                    <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="widget widget_archives">
                             <h6 class="widget-title">Our Services</h6>
                             <ul>
@@ -49,7 +49,7 @@
                     </div>  
                     <!-- Widget Archives End--> 
                     <!-- Widget Flicker Start--> 
-                    <div class="col-md-4 col-sm-12">
+                    <div class="col-md-4 col-sm-12 col-xs-12">
                         <h6 class="widget-title">OUR PROMISES</h6>
                         <p class="payment-title">Online secure payments</p>
                         <img

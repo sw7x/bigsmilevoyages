@@ -2560,7 +2560,7 @@ footer, section {
 }
 
 .mg_hotel_banner{
-    margin-top: 60px;
+    margin-top: 63px;
 }
 
 
@@ -2715,8 +2715,8 @@ input[type="text"]:focus + label,
 @media (max-width: 991px) {
 
     .mg_logo{
-        width: 6%!important;
-        margin: 0px 0px 10px 0px!important;
+        width: 10%!important;
+        margin: -18px 0px 10px 10px!important;
     }
     .flag li a span{
         visibility: hidden;
@@ -2726,7 +2726,10 @@ input[type="text"]:focus + label,
     }
     .mg_nav {
         width: 75%!important;
-        margin: 0px -60px 0 0px!important;
+        margin: -28px -70px 0 0px!important;
+    }
+    .mg_nav_wrapper {
+        padding: 32px 60px !important;
     }
 }
 
@@ -2740,19 +2743,34 @@ input[type="text"]:focus + label,
     }
     .mg_nav {
         width: 75%!important;
-        margin: -16px -30px 0 0px!important;
+        margin: -27px -60px 0 0px!important;
+    }
+        .mg_bottom_bar ul li a i{
+        padding: 0px 85px;
+        font-size: 30px;
+    }
+    .footer-text{
+        font-size: 24px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+        .widget_text .logo img {
+        margin-bottom: 13px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
     }
 }
 
 @media (max-width: 480px){
 
     .mg_logo{
-        width: 15%!important;
-        margin: -6px 0px 10px 8px!important;
+        width: 20%!important;
+        margin: -15px 0px 0px -30px!important;
     }
     .mg_nav {
         width: 75%!important;
-        margin: -16px -30px 0 0px!important;
+        margin: -28px -60px 0 0px!important;
     }
     .flag li a span{
         visibility: hidden;
@@ -2765,6 +2783,15 @@ input[type="text"]:focus + label,
         margin-left: auto;
         margin-right: auto;
         display: block;
+    }
+    .mg_bottom_bar ul li a i{
+        padding: 0px 38px;
+        font-size: 30px;
+    }
+    .footer-text{
+        font-size: 15px;
+        text-align: center;
+        padding-bottom: 10px;
     }
 }
 
