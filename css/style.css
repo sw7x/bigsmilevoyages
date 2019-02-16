@@ -2409,7 +2409,7 @@ input:checked + .radio-value {
 
 
 section.text-section{
-    background-color: #ebeef2;
+    background-color: #23e48912;
 }
 
     
@@ -2595,7 +2595,8 @@ footer, section {
 
 
 .mg_copyright{
-    padding: 4px 0 4px;
+    padding: 7px 0 7px;
+    background: #022b18;
 }
 
 .quote{
@@ -2774,31 +2775,34 @@ input[type="text"]:focus + label,
 /*color*/
 
 .mg_footer1{
-    background-color: #f3f3f3;
+    background-color: #0a5833;
+    color: #fff;
+
 }
 footer .mg_contact{
-    color: #000;
+    color: #fff;
     font-weight: 500;
 }
-.widget-title{
-    color: #000;
+footer .widget-title{
+    color: #fff;
 }
 .mg_footer1 .widget_archives ul li a{
-    color: #000;
+    color: #fff;
     font-weight: 600;
 }
 .widget_archives ul li::before{
     color: #2bb673;
 }
 .payment-title{
-    color: #000;
+    color: #fff;
     font-weight: 600;
 }
 .mg_copyright p{
-    color: #fff
+    color: #fff;
+   
 }
 .mg_travelplan::before{
-    background: #2dae70;
+    background: #23e48912;
 }
 .mg_plan_caption p{
     color: #000!important;

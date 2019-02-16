@@ -24,7 +24,7 @@
                     <div class="col-md-4 col-sm-12">
                         <div class="widget widget_text">
                             <div class="logo">
-                                <a href="#"><img class="img-responsive" src="images/BIGSMILE.png" alt=""/></a>
+                                <a href="#"><img class="img-responsive" src="images/footer-logo.png" alt=""/></a>
                             </div>
                             <div class="text">
                                 <p>
