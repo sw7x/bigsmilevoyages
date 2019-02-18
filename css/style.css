@@ -2715,8 +2715,8 @@ input[type="text"]:focus + label,
 @media (max-width: 991px) {
 
     .mg_logo{
-        width: 10%!important;
-        margin: -18px 0px 10px 10px!important;
+        width: 15%!important;
+        margin: -16px 0px 10px 0px!important;
     }
     .flag li a span{
         visibility: hidden;
@@ -2726,11 +2726,20 @@ input[type="text"]:focus + label,
     }
     .mg_nav {
         width: 75%!important;
-        margin: -28px -70px 0 0px!important;
+        margin: -15px -70px 0 0px!important;
     }
     .mg_nav_wrapper {
         padding: 32px 60px !important;
     }
+    .widget_text .logo img {
+        margin-bottom: 13px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .search_wraper .search_one {
+      width: 330px!important;
+   }
 }
 
 @media (max-width: 767px) {
@@ -2754,11 +2763,14 @@ input[type="text"]:focus + label,
         text-align: center;
         padding-bottom: 10px;
     }
-        .widget_text .logo img {
+    .widget_text .logo img {
         margin-bottom: 13px;
         margin-left: auto;
         margin-right: auto;
         display: block;
+    }
+    .search_one.absolute{
+        opacity: 1!important;
     }
 }
 
@@ -2793,7 +2805,13 @@ input[type="text"]:focus + label,
         text-align: center;
         padding-bottom: 10px;
     }
+    .search_one.absolute{
+        opacity: 1!important;
+    }
+
 }
+
+
 
 .mob-flag li a span{
     display: none;
