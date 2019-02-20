@@ -2596,14 +2596,15 @@ footer, section {
 
 .mg_copyright{
     padding: 7px 0 7px;
-    background: #022b18;
+    background: #000e07;
 }
 
 .quote{
     width: 250px;
     height: auto;
+    border-color: #00bffe;
     color: #fff;
-    background-color: #2bb673;
+    background-color: #00bffe;
     font-size: 25px;
     font-weight: 600;
     -webkit-transition: background-color 0.8s ease-out;
@@ -2612,8 +2613,9 @@ footer, section {
     transition: background-color 0.8s ease-out;
 }
 .quote:hover{
-    background-color: #117b48;
+    background-color: #0185b1;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-color: #00bffe;
 }
 .logo img{
     width: 70%;
@@ -2729,17 +2731,25 @@ input[type="text"]:focus + label,
         margin: -15px -70px 0 0px!important;
     }
     .mg_nav_wrapper {
-        padding: 32px 60px !important;
+        padding: 32px 50px !important;
+        height: 9%;
     }
     .widget_text .logo img {
-        margin-bottom: 13px;
-        margin-left: auto;
-        margin-right: auto;
-        display: block;
+        height: auto;
+        width: 70%;
     }
     .search_wraper .search_one {
-      width: 330px!important;
+        width: 330px!important;
    }
+   .mg_bottom_bar ul li a i {
+        padding: 12px 30px;
+    }
+    .mg_footer1 .widget {
+        min-height: 170px!important;
+    }
+    footer .mg_contact {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 767px) {
@@ -2754,7 +2764,7 @@ input[type="text"]:focus + label,
         width: 75%!important;
         margin: -27px -60px 0 0px!important;
     }
-        .mg_bottom_bar ul li a i{
+    .mg_bottom_bar ul li a i{
         padding: 0px 85px;
         font-size: 30px;
     }
@@ -2771,6 +2781,11 @@ input[type="text"]:focus + label,
     }
     .search_one.absolute{
         opacity: 1!important;
+        width: 100% !important;
+    }
+    .mg_logo {
+        width: 15% !important;
+        margin: -24px 0px 10px 0px !important;
     }
 }
 
@@ -2808,6 +2823,9 @@ input[type="text"]:focus + label,
     .search_one.absolute{
         opacity: 1!important;
     }
+    .mg_copyright p{
+        padding: 0px 15px 0 15px;
+    }
 
 }
 
@@ -2820,7 +2838,7 @@ input[type="text"]:focus + label,
 /*color*/
 
 .mg_footer1{
-    background-color: #0a5833;
+    background-color: #02170d;
     color: #fff;
 
 }
@@ -2852,4 +2870,50 @@ footer .widget-title{
 .mg_plan_caption p{
     color: #000!important;
     font-weight: 500;
+}
+.dl-menuwrapper button{
+
+}
+.mg_bottom_bar {
+    background-color: #058cff!important;
+}
+.why_chooseus::after{
+    background-color: #fff;
+}
+.mg_plan_caption .mg_btn1 {
+    color: #fff;
+    border-color: #fff;
+    margin-bottom: 30px;
+    background: #00bffe;
+}
+.home-feature-tours .mg_hotel_destination figure .icon-div i {
+    color: #fff;
+    font-size: 30px;
+    position: static;
+    background: #00bffe;
+    border-radius: 25px;
+    width: 40px;
+    color: white;
+    padding: 5px;
+}
+.home-feature-tours .mg_hotel_destination figure .icon-div {
+    position: absolute;
+    width: 40px;
+    right: 10px;
+    left: unset;
+    bottom: 10px;
+}
+.home-feature-tours .mg_hotel_destination:hover figure .icon-div i{
+    color: #fff;
+    background: #318ffa;
+}
+.home-feature-tours .mg_hotel_destination figcaption p {
+    color: #fff;
+    font-weight: 500;
+}
+.fancy-overlay figure{
+    background-color: #00bffe;
+}
+.why_chooseus::before{
+    background-color: #fff;
 }
