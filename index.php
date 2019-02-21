@@ -28,7 +28,7 @@
                 <div class="search_wraper">
                     <div class="container">
                         <div class="search_one absolute">
-                        <a class="btn btn-success quote">Get a free quote</a>
+                        <a class="btn quote">Get a free quote</a>
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                                             <div class="col-md-4 col-sm-6">
                                                 <div class="mg_hotel_destination fancy-overlay">
                                                     <figure>
-                                                        <img src="https://placeimg.com/360/225/any" alt=""/>
+                                                        <img src="https://placeimg.com/360/225/nature" alt=""/>
                                                         <figcaption>
                                                             <a class="view_btn" href="#">
                                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
@@ -138,7 +138,7 @@
                                             <div class="col-md-4 col-sm-6">
                                                 <div class="mg_hotel_destination fancy-overlay">
                                                     <figure>
-                                                        <img src="https://placeimg.com/360/225/any" alt=""/>
+                                                        <img src="https://placeimg.com/360/225/arch" alt=""/>
                                                         <figcaption>
                                                             <a class="view_btn" href="#">
                                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
@@ -164,7 +164,7 @@
                                             <div class="col-md-4 col-sm-6">
                                                 <div class="mg_hotel_destination fancy-overlay">
                                                     <figure>
-                                                        <img src="https://placeimg.com/360/225/any" alt=""/>
+                                                        <img src="https://placeimg.com/360/225/people" alt=""/>
                                                         <figcaption>
                                                             <a class="view_btn" href="#">
                                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
@@ -190,7 +190,7 @@
                                             <div class="col-md-4 col-sm-6">
                                                 <div class="mg_hotel_destination fancy-overlay">
                                                     <figure>
-                                                        <img src="https://placeimg.com/360/225/any" alt=""/>
+                                                        <img src="https://placeimg.com/360/225/tech" alt=""/>
                                                         <figcaption>
                                                             <a class="view_btn" href="#">
                                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
@@ -216,7 +216,7 @@
                                             <div class="col-md-4 col-sm-6">
                                                 <div class="mg_hotel_destination fancy-overlay">
                                                     <figure>
-                                                        <img src="https://placeimg.com/360/225/any" alt=""/>
+                                                        <img src="https://placeimg.com/360/225/animals" alt=""/>
                                                         <figcaption>
                                                             <a class="view_btn" href="#">
                                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
@@ -318,7 +318,7 @@
                 <section class="why_chooseus">
                     <div class="container-fluid">
                         <!-- iqoniq Heading Start -->
-                        <div class="mg_hotel_hd1 white">
+                        <div class="mg_hotel_hd1">
                             <h4>Our Partners</h4>
                         </div>
                         <!-- iqoniq Heading End -->
@@ -330,7 +330,7 @@
                                 <div class="col-md-4">
                                     <div class="mg_chooseus">
                                         <figure>
-                                            <img src="https://via.placeholder.com/468x260?text=client1" alt="">
+                                            <img src="https://placeimg.com/468/260/any" alt="">
                                         </figure>                                        
                                     </div>
                                 </div>
@@ -340,7 +340,7 @@
                                 <div class="col-md-4">
                                     <div class="mg_chooseus">
                                         <figure>
-                                            <img src="https://via.placeholder.com/468x260?text=client2" alt="">
+                                            <img src="https://placeimg.com/468/260/tech" alt="">
                                         </figure>                                        
                                     </div>
                                 </div>
@@ -350,7 +350,7 @@
                                 <div class="col-md-4">
                                     <div class="mg_chooseus">
                                         <figure>
-                                            <img src="https://via.placeholder.com/468x260?text=client3" alt="">
+                                            <img src="https://placeimg.com/468/260/tech" alt="">
                                         </figure>
                                     </div>
                                 </div>
@@ -360,7 +360,7 @@
                                 <div class="col-md-4">
                                     <div class="mg_chooseus">
                                         <figure>
-                                            <img src="https://via.placeholder.com/468x260?text=client4" alt="">
+                                            <img src="https://placeimg.com/468/260/tech" alt="">
                                         </figure>
                                     </div>
                                 </div>
@@ -370,7 +370,7 @@
                                 <div class="col-md-4">
                                     <div class="mg_chooseus">
                                         <figure>
-                                            <img src="https://via.placeholder.com/468x260?text=client5" alt="">
+                                            <img src="https://placeimg.com/468/260/tech" alt="">
                                         </figure>
                                     </div>
                                 </div>
@@ -380,7 +380,7 @@
                                 <div class="col-md-4">
                                     <div class="mg_chooseus">
                                         <figure>
-                                            <img src="https://via.placeholder.com/468x260?text=client6" alt="">
+                                            <img src="https://placeimg.com/468/260/tech" alt="">
                                         </figure>
                                     </div>
                                 </div>
@@ -390,7 +390,7 @@
                                 <div class="col-md-4">
                                     <div class="mg_chooseus">
                                         <figure>
-                                            <img src="https://via.placeholder.com/468x260?text=client7" alt="">
+                                            <img src="https://placeimg.com/468/260/nature" alt="">
                                         </figure>
                                     </div>
                                 </div>
@@ -400,7 +400,7 @@
                                 <div class="col-md-4">
                                     <div class="mg_chooseus">
                                         <figure>
-                                            <img src="https://via.placeholder.com/468x260?text=client8" alt="">
+                                            <img src="https://placeimg.com/468/260/arch" alt="">
                                         </figure>
                                     </div>
                                 </div>

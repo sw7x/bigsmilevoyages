@@ -1,8 +1,8 @@
                 <!-- Bottom Bar Start-->
                 <div class="mg_bottom_bar">
                     <div class="container">
-                        <div class="col-md-8 col-sm-6 col-xs-12">
-                            <h3 class="footer-text">FOLLOW US AND START TRAVELLING ALREADY !</h3>
+                        <div class="col-md-8 col-sm-12 col-xs-12">
+                            <h3 class="footer-text">Follow Us and Start Travelling Already !</h3>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12">
                             <ul>
@@ -26,17 +26,15 @@
                             <div class="logo">
                                 <a href="#"><img class="img-responsive" src="images/footer-logo.png" alt=""/></a>
                             </div>
-                            <div class="text">
-                                <p>
-                                </p>
-                                <div class="mg_contact"><i class="fa fa-phone"></i><span>+92-1234567689</span></div>
-                                <div class="mg_contact"><i class="fa fa-envelope-o"></i><span>info@bigsmilevoyages.com</span></div>
+                            <div class="text">                                
+                                <div class="mg_contact phone"><i class="fa fa-phone"></i><span>+92-1234567689</span></div>
+                                <div class="mg_contact email"><i class="fa fa-envelope-o"></i><span>info@bigsmilevoyages.com</span></div>
                             </div>
                         </div>
                     </div>
                     <!-- Widget Text End--> 
                     <!-- Widget Archives Start--> 
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="footer-services col-md-4 col-sm-4 col-xs-6">
                         <div class="widget widget_archives">
                             <h6 class="widget-title">Our Services</h6>
                             <ul>
@@ -49,7 +47,7 @@
                     </div>  
                     <!-- Widget Archives End--> 
                     <!-- Widget Flicker Start--> 
-                    <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="footer-payments col-md-4 col-sm-4 col-xs-6">
                         <h6 class="widget-title">OUR PROMISES</h6>
                         <p class="payment-title">Online secure payments</p>
                         <img

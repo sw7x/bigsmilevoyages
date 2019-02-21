@@ -2409,7 +2409,7 @@ input:checked + .radio-value {
 
 
 section.text-section{
-    background-color: #23e48912;
+    background-color: #2dad7026;
 }
 
     
@@ -2440,7 +2440,7 @@ section.text-section{
 
 .chooseus_slider .arrow{
     display: block;
-    color: #FFF;
+    color: #2bb673;
     font-size: 62px;
     /* margin: 5px; */
     padding: 4px 7px;
@@ -2449,6 +2449,7 @@ section.text-section{
     cursor: pointer;
     border-radius: 3px;
     z-index: 9999;
+   
 }
 
 
@@ -2596,7 +2597,7 @@ footer, section {
 
 .mg_copyright{
     padding: 7px 0 7px;
-    background: #000e07;
+    background: #084629;
 }
 
 .quote{
@@ -2616,6 +2617,7 @@ footer, section {
     background-color: #0185b1;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
     border-color: #00bffe;
+    color: #fff;
 }
 .logo img{
     width: 70%;
@@ -2714,6 +2716,8 @@ input[type="text"]:focus + label,
     background-color: #2bb673;
 }
 
+
+
 @media (max-width: 991px) {
 
     .mg_logo{
@@ -2779,6 +2783,12 @@ input[type="text"]:focus + label,
         margin-right: auto;
         display: block;
     }
+    .search_wraper .search_one{
+        position: absolute;
+        top: 50%;
+        width: 330px!important;
+        bottom: auto;
+    }
     .search_one.absolute{
         opacity: 1!important;
         width: 100% !important;
@@ -2787,6 +2797,12 @@ input[type="text"]:focus + label,
         width: 15% !important;
         margin: -24px 0px 10px 0px !important;
     }
+
+
+
+
+
+
 }
 
 @media (max-width: 480px){
@@ -2838,7 +2854,7 @@ input[type="text"]:focus + label,
 /*color*/
 
 .mg_footer1{
-    background-color: #02170d;
+    background-color: #0c673c;
     color: #fff;
 
 }
@@ -2865,7 +2881,7 @@ footer .widget-title{
    
 }
 .mg_travelplan::before{
-    background: #23e48912;
+    background: #2dad7026;
 }
 .mg_plan_caption p{
     color: #000!important;
@@ -2886,6 +2902,15 @@ footer .widget-title{
     margin-bottom: 30px;
     background: #00bffe;
 }
+
+.mg_plan_caption .mg_btn1:hover {
+    
+    background-color: #0185b1;
+    /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+    border-color: #00bffe;
+    color: #fff;
+}
+
 .home-feature-tours .mg_hotel_destination figure .icon-div i {
     color: #fff;
     font-size: 30px;
@@ -2894,7 +2919,7 @@ footer .widget-title{
     border-radius: 25px;
     width: 40px;
     color: white;
-    padding: 5px;
+    padding: 5px 0px 5px 5px;
 }
 .home-feature-tours .mg_hotel_destination figure .icon-div {
     position: absolute;
@@ -2904,8 +2929,8 @@ footer .widget-title{
     bottom: 10px;
 }
 .home-feature-tours .mg_hotel_destination:hover figure .icon-div i{
-    color: #fff;
-    background: #318ffa;
+    color: #318ffa;
+    background: #fff;
 }
 .home-feature-tours .mg_hotel_destination figcaption p {
     color: #fff;
