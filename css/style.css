@@ -2630,9 +2630,6 @@ footer, section {
     padding: 0px 30px;
     font-size: 40px;
 }
-.footer-text{
-    color: #fff;
-} 
 
 
 
@@ -2721,8 +2718,8 @@ input[type="text"]:focus + label,
 @media (max-width: 991px) {
 
     .mg_logo{
-        width: 15%!important;
-        margin: -16px 0px 10px 0px!important;
+        width: 75px!important;
+        margin: -24px 0px 10px 0px!important;
     }
     .flag li a span{
         visibility: hidden;
@@ -2732,11 +2729,11 @@ input[type="text"]:focus + label,
     }
     .mg_nav {
         width: 75%!important;
-        margin: -15px -70px 0 0px!important;
+        margin: -30px -70px 0 0px!important;
     }
     .mg_nav_wrapper {
         padding: 32px 50px !important;
-        height: 9%;
+        height: 7%;
     }
     .widget_text .logo img {
         height: auto;
@@ -2753,6 +2750,13 @@ input[type="text"]:focus + label,
     }
     footer .mg_contact {
         font-size: 14px;
+    }
+    .social a img{
+        width: 65px!important;
+        padding: 0px!important;
+    }
+    .footer-text{
+        font-size: 24px;
     }
 }
 
@@ -2774,8 +2778,7 @@ input[type="text"]:focus + label,
     }
     .footer-text{
         font-size: 24px;
-        text-align: center;
-        padding-bottom: 10px;
+        padding-top: 0px!important;
     }
     .widget_text .logo img {
         margin-bottom: 13px;
@@ -2794,21 +2797,19 @@ input[type="text"]:focus + label,
         width: 100% !important;
     }
     .mg_logo {
-        width: 15% !important;
-        margin: -24px 0px 10px 0px !important;
+        width: 60px !important;
+        margin: -20px 0px 10px 0px !important;
     }
-
-
-
-
-
-
+    .social a img{
+        width: 60px!important;
+        padding: 0px!important;
+    }
 }
 
-@media (max-width: 480px){
+@media (max-width: 600px){
 
     .mg_logo{
-        width: 20%!important;
+        width: 50px!important;
         margin: -15px 0px 0px -30px!important;
     }
     .mg_nav {
@@ -2827,14 +2828,13 @@ input[type="text"]:focus + label,
         margin-right: auto;
         display: block;
     }
-    .mg_bottom_bar ul li a i{
+    /*.mg_bottom_bar ul li a i{
         padding: 0px 38px;
         font-size: 30px;
-    }
+    }*/
     .footer-text{
         font-size: 15px;
-        text-align: center;
-        padding-bottom: 10px;
+        padding-top: 0px!important;
     }
     .search_one.absolute{
         opacity: 1!important;
@@ -2842,9 +2842,20 @@ input[type="text"]:focus + label,
     .mg_copyright p{
         padding: 0px 15px 0 15px;
     }
+    .social a img{
+        width: 55px!important;
+        padding: 0px!important;
+    }
 
 }
 
+
+@media (max-width: 450px){
+    .social a img{
+        width: 40px!important;
+        padding: 0px!important;
+    }
+}
 
 
 .mob-flag li a span{
@@ -2941,4 +2952,16 @@ footer .widget-title{
 }
 .why_chooseus::before{
     background-color: #fff;
+}
+.social a img{
+    display: inline-block;
+    width: 70px;
+    height: auto;
+    padding: 5px 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footer-text{
+    color: #fff;
+    padding-top: 12px;
 }
