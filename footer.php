@@ -1,14 +1,14 @@
                 <!-- Bottom Bar Start-->
                 <div class="mg_bottom_bar">
                     <div class="container">
-                        <div class="col-md-8 col-sm-8 col-xs-6">
+                        <div class="col-md-8 col-sm-8 col-xs-12">
                             <h3 class="footer-text">Follow Us and Start Travelling Already !</h3>
                         </div>
-                        <div class="col-md-4 col-sm-4 col-xs-6">
+                        <div class="col-md-4 col-sm-4 col-xs-12">
                             <div class="social">
-                                <a href=""><img src="images/Social/fb.svg"></a>
-                                <a href=""><img src="images/Social/insta.svg"></a>
-                                <a href=""><img src="images/Social/youtube.svg"></a>
+                                <a href="#"><img src="images/Social/fb.svg"></a>
+                                <a href="#"><img src="images/Social/insta.svg"></a>
+                                <a href="#"><img src="images/Social/youtube.svg"></a>
                             </div>
                             <!--<ul>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
