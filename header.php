@@ -52,13 +52,13 @@
                 <div class="mg_nav_wrapper">
                     <!-- iqoniq Logo Start-->
                     <div class="mg_logo">
-                        <a href="#"><img src="images/BIGSMILE.png" alt=""/></a>
+                        <a href="index.php"><img src="images/BIGSMILE.png" alt=""/></a>
                     </div>
                     <!-- iqoniq Logo End-->
                     <!-- iqoniq Navigation Start-->
                     <div class="mg_nav">
                         <ul class="mg_navigation">
-                            <li><a href="index.html">home</a></li>
+                            <li><a href="index.php">home</a></li>
                             <li>
                                 <a href="#">Tours in Sri Lanka</a>
                                 <ul class="children">

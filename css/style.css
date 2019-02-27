@@ -2965,3 +2965,10 @@ footer .widget-title{
     color: #fff;
     padding-top: 12px;
 }
+.package-heading{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.packages-heading-title{
+    margin-bottom: 40px;
+}
