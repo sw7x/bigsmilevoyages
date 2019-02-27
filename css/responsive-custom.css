@@ -12,6 +12,11 @@
 	.mg_contact.email{
 		text-align: center;
 	}
+
+
+	.mg_bottom_bar .social{
+		padding-top: 10px
+	}
 }
 
 
